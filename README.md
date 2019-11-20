@@ -1,5 +1,6 @@
 # Google Cloud Code Deployment Roadmap
-> This repo is based on experiences from contributors and helps Google Cloud users answer the questions.  **Where should I deploy my Code on Google Cloud Platform**
+> This repo is based on experiences from contributors and helps Google Cloud users answer the question.  
+**Where should I deploy my Code on Google Cloud Platform**
 
 ![GCP Roadmap](gcp_roadmap_v1.jpg)
 
