@@ -31,6 +31,6 @@
 
 -----
 
-This is not an official Google project or roadmap. Refer to the [Cloud Run documentation][docs] for the authoritative information. 
+This is not an official Google project or roadmap. Refer to the [Google Cloud documentation](https://cloud.google.com/docs/) for more information. 
 
 > **Do you still have doubts of where to Deploy?** Check out [**Google Cloud Hosting Options Analysis**](https://cloud.google.com/hosting-options/#hosting-options)
